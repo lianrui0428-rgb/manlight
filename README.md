@@ -11,6 +11,7 @@ AI 漫剧与短剧分镜创作工作台：文案分镜 → 生成画面 → 声�
 [![官网下载](https://img.shields.io/badge/官网下载-Windows%20x64-7fd1b9?style=for-the-badge)](https://down.lrmj.site/manlight-download/)
 [![视频与图文教程](https://img.shields.io/badge/教程-视频%20%2B%20图文-3a3f47?style=for-the-badge)](https://down.lrmj.site/manlight-tutorial/)
 [![QQ 群](https://img.shields.io/badge/QQ%20群-225951167-3a3f47?style=for-the-badge)](https://down.lrmj.site/getting-started/#contact)
+[![合作联系](https://img.shields.io/badge/合作%20QQ-1284536496-3a3f47?style=for-the-badge)](#反馈与交流)
 
 <img src="screenshots/banner.jpg" alt="漫光年作品示例" width="100%">
 
@@ -67,7 +68,8 @@ AI 漫剧与短剧分镜创作工作台：文案分镜 → 生成画面 → 声�
 ## 反馈与交流
 
 - 提交问题：在本仓库 [Issues](../../issues) 中描述页面、操作步骤和错误提示，截图请遮挡 API Key 与个人信息
-- QQ 群：**225951167**（安装、账户与合作咨询）
+- QQ 群：**225951167**（安装与账户咨询）
+- 合作联系：QQ **1284536496**
 
 ---
 
